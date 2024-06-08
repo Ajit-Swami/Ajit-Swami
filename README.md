@@ -6,13 +6,13 @@
 
 - 👯 I’m looking to collaborate on **Industry Projects**
 
-- 📫 How to reach me **swamajit18@gmail.co**
+- 📫 How to reach me **swamajit18@gmail.com**
 
 - ⚡ Fun fact **I think I am Visionary Programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pradeep-misal-87403b1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep misal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajit-swami-b6364724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajit Swami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
