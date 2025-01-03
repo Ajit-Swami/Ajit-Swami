@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate computer Science student with a keep interest in emerging technologies, specifically focused on Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Industry Projects**
 
