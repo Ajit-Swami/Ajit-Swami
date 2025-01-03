@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajit Swami</h1>
-<h3 align="center">A Passionate computer Science student with a keep interest in emerging technologies, specifically focused on Mern stack and artificial intelligence.</h3>
+<h3 align="center">A Passionate computer Science student with a keep interest in emerging technologies, specifically focused on Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🌱 I’m currently learning **Mern Stack**
